@@ -1,0 +1,91 @@
+body{
+    background-image: url("images/fondo.jpeg");
+    background-size: 100% 150%;
+}
+
+h1{
+    color: #ffff33;
+    text-align: center;
+}
+
+h2{
+    color:#00ff99;
+    display: inline-block;
+    margin-left: 850px;
+}
+
+h3{
+    background-color: white;
+    opacity: 0.8;
+    filter: alpha(opacity=80);
+}
+
+h3:hover{
+    background-color: white;
+    opacity: 1.0;
+    filter: alpha(opacity=100);
+}
+
+p{
+    background-color: white;
+    opacity: 0.8;
+}
+
+small{
+    background-color: white;
+    opacity: 0.8;
+}
+
+#calendar-3{
+    float: right;
+    background-color: white;
+    opacity: 0.8;
+}
+
+img{
+    margin: auto;
+    display: block;
+}
+
+.menu-item{
+    padding: 10px;
+    list-style-type: none;
+    display: inline-block;
+    margin-left: 350px
+}
+
+.menu-item-4{
+    background-color: white;
+    opacity: 0.5;
+    filter: alpha(opacity=50);
+}
+
+.menu-item-4:hover{
+    background-color: white;
+    opacity: 1.0;
+    filter: alpha(opacity=100);
+}
+
+.menu-item-5{
+    background-color: white;
+    opacity: 0.5;
+    filter: alpha(opacity=50);
+}
+
+.menu-item-5:hover{
+    background-color: white;
+    opacity: 1.0;
+    filter: alpha(opacity=100);
+}
+
+.menu-item-6{
+    background-color: white;
+    opacity: 0.5;
+    filter: alpha(opacity=50);
+}
+
+.menu-item-6:hover{
+    background-color: white;
+    opacity: 1.0;
+    filter: alpha(opacity=100);
+}
